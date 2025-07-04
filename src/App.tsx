@@ -12,7 +12,7 @@ import Footer from "./components/Footer";
 import Overview from "./pages/Assets/Overview";
 import Spot from "./pages/Assets/Spot";
 import Margin from "./pages/Assets/Margin";
-import TransactionHistory from "./pages/Orders/TransactionHistory";
+import TransactionHistory from "./pages/Orders/transactionhistory";
 import PaymentHistory from "./pages/Orders/PaymentHistory";
 import TradingPage from "./pages/Trading/Trading";
 import FuturesPage from "./pages/Assets/Futures";

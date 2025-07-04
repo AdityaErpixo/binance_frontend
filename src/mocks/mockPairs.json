@@ -1,0 +1,272 @@
+[
+  {
+    "id": "1",
+    "symbol": "1000CAT/USDC",
+    "leverage": "5x",
+    "lastPrice": 0.00665,
+    "change24h": -5.94,
+    "isFavorite": false,
+    "volume": "1.25M"
+  },
+  {
+    "id": "2",
+    "symbol": "1000CHEEMS/USDC",
+    "leverage": "5x",
+    "lastPrice": 0.001403,
+    "change24h": -1.61,
+    "isFavorite": true,
+    "volume": "0.85M"
+  },
+  {
+    "id": "3",
+    "symbol": "BTC/USDC",
+    "leverage": "10x",
+    "lastPrice": 42000.50,
+    "change24h": 2.34,
+    "isFavorite": false,
+    "volume": "25M"
+  },
+  {
+    "id": "4",
+    "symbol": "ETH/USDC",
+    "leverage": "10x",
+    "lastPrice": 2250.75,
+    "change24h": -0.75,
+    "isFavorite": true,
+    "volume": "18M"
+  },
+  {
+    "id": "5",
+    "symbol": "SOL/USDC",
+    "leverage": "5x",
+    "lastPrice": 95.20,
+    "change24h": 5.25,
+    "isFavorite": false,
+    "volume": "5M"
+  },
+  {
+    "id": "6",
+    "symbol": "DOGE/USDC",
+    "leverage": "5x",
+    "lastPrice": 0.071,
+    "change24h": 3.21,
+    "isFavorite": false,
+    "volume": "2.2M"
+  },
+  {
+    "id": "7",
+    "symbol": "SHIB/USDC",
+    "leverage": "5x",
+    "lastPrice": 0.0000082,
+    "change24h": -0.45,
+    "isFavorite": true,
+    "volume": "3.1M"
+  },
+  {
+    "id": "8",
+    "symbol": "ADA/USDC",
+    "leverage": "10x",
+    "lastPrice": 0.45,
+    "change24h": 2.76,
+    "isFavorite": false,
+    "volume": "5.4M"
+  },
+  {
+    "id": "9",
+    "symbol": "XRP/USDC",
+    "leverage": "10x",
+    "lastPrice": 0.52,
+    "change24h": -1.22,
+    "isFavorite": false,
+    "volume": "4.8M"
+  },
+  {
+    "id": "10",
+    "symbol": "LTC/USDC",
+    "leverage": "10x",
+    "lastPrice": 82.35,
+    "change24h": 0.89,
+    "isFavorite": true,
+    "volume": "2.7M"
+  },
+  {
+    "id": "11",
+    "symbol": "BNB/USDC",
+    "leverage": "5x",
+    "lastPrice": 315.40,
+    "change24h": -2.12,
+    "isFavorite": false,
+    "volume": "8.5M"
+  },
+  {
+    "id": "12",
+    "symbol": "AVAX/USDC",
+    "leverage": "5x",
+    "lastPrice": 18.60,
+    "change24h": 4.20,
+    "isFavorite": false,
+    "volume": "1.9M"
+  },
+  {
+    "id": "13",
+    "symbol": "MATIC/USDC",
+    "leverage": "10x",
+    "lastPrice": 0.74,
+    "change24h": -3.33,
+    "isFavorite": true,
+    "volume": "3.6M"
+  },
+  {
+    "id": "14",
+    "symbol": "DOT/USDC",
+    "leverage": "5x",
+    "lastPrice": 5.75,
+    "change24h": 1.80,
+    "isFavorite": false,
+    "volume": "2.6M"
+  },
+  {
+    "id": "15",
+    "symbol": "UNI/USDC",
+    "leverage": "5x",
+    "lastPrice": 6.30,
+    "change24h": -0.90,
+    "isFavorite": false,
+    "volume": "1.5M"
+  },
+  {
+    "id": "16",
+    "symbol": "LINK/USDC",
+    "leverage": "10x",
+    "lastPrice": 14.25,
+    "change24h": 2.48,
+    "isFavorite": true,
+    "volume": "4.2M"
+  },
+  {
+    "id": "17",
+    "symbol": "PEPE/USDC",
+    "leverage": "5x",
+    "lastPrice": 0.0000012,
+    "change24h": 6.75,
+    "isFavorite": false,
+    "volume": "2.9M"
+  },
+  {
+    "id": "18",
+    "symbol": "SUI/USDC",
+    "leverage": "5x",
+    "lastPrice": 0.98,
+    "change24h": -4.11,
+    "isFavorite": true,
+    "volume": "3.3M"
+  },
+  {
+    "id": "19",
+    "symbol": "APT/USDC",
+    "leverage": "10x",
+    "lastPrice": 7.80,
+    "change24h": 1.05,
+    "isFavorite": false,
+    "volume": "4.7M"
+  },
+  {
+    "id": "20",
+    "symbol": "ARB/USDC",
+    "leverage": "10x",
+    "lastPrice": 1.15,
+    "change24h": -2.98,
+    "isFavorite": false,
+    "volume": "4.1M"
+  },
+  {
+    "id": "21",
+    "symbol": "FTM/USDC",
+    "leverage": "5x",
+    "lastPrice": 0.45,
+    "change24h": 0.77,
+    "isFavorite": true,
+    "volume": "2.6M"
+  },
+  {
+    "id": "22",
+    "symbol": "NEAR/USDC",
+    "leverage": "5x",
+    "lastPrice": 1.90,
+    "change24h": -1.10,
+    "isFavorite": false,
+    "volume": "2.8M"
+  },
+  {
+    "id": "23",
+    "symbol": "RNDR/USDC",
+    "leverage": "10x",
+    "lastPrice": 10.60,
+    "change24h": 5.12,
+    "isFavorite": false,
+    "volume": "3M"
+  },
+  {
+    "id": "24",
+    "symbol": "GRT/USDC",
+    "leverage": "5x",
+    "lastPrice": 0.19,
+    "change24h": -3.45,
+    "isFavorite": false,
+    "volume": "2.1M"
+  },
+  {
+    "id": "25",
+    "symbol": "AAVE/USDC",
+    "leverage": "10x",
+    "lastPrice": 92.50,
+    "change24h": 2.14,
+    "isFavorite": true,
+    "volume": "3.9M"
+  },
+  {
+    "id": "26",
+    "symbol": "CAKE/USDC",
+    "leverage": "5x",
+    "lastPrice": 2.25,
+    "change24h": -1.67,
+    "isFavorite": false,
+    "volume": "1.7M"
+  },
+  {
+    "id": "27",
+    "symbol": "INJ/USDC",
+    "leverage": "10x",
+    "lastPrice": 18.40,
+    "change24h": 3.90,
+    "isFavorite": true,
+    "volume": "4.6M"
+  },
+  {
+    "id": "28",
+    "symbol": "STX/USDC",
+    "leverage": "5x",
+    "lastPrice": 1.30,
+    "change24h": -0.82,
+    "isFavorite": false,
+    "volume": "2.4M"
+  },
+  {
+    "id": "29",
+    "symbol": "ICP/USDC",
+    "leverage": "10x",
+    "lastPrice": 8.70,
+    "change24h": 0.65,
+    "isFavorite": false,
+    "volume": "2.7M"
+  },
+  {
+    "id": "30",
+    "symbol": "1000PEPE/USDC",
+    "leverage": "5x",
+    "lastPrice": 0.0023,
+    "change24h": -4.28,
+    "isFavorite": true,
+    "volume": "3.2M"
+  }
+]

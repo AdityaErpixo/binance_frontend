@@ -59,6 +59,7 @@ const BinanceSignup = () => {
             <button
               className="text-[#f0b90b] hover:text-yellow-400 font-medium"
               onClick={() => navigate('/dashboard')}
+              disabled
             >
               Skip
             </button>
